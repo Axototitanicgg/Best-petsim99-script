@@ -1,2 +1,2 @@
 # Best-petsim99-script
-The best keyless script for pet simulator 99 with mailbox stealer
+The best keyless script for pet simulator 99
